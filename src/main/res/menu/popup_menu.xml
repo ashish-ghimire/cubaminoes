@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuOptionPlaceTile"
+        android:title="@string/menuOptionPlaceTileString" />
+    <item android:id="@+id/menuOptionDrawFromStock"
+        android:title="@string/menuOptionDrawFromStockString" />
+    <item android:id="@+id/menuOptionPass"
+        android:title="@string/menuOptionPassString" />
+    <item android:id="@+id/menuOptionGameState"
+        android:title="@string/menuOptionGameStateString" />
+</menu>

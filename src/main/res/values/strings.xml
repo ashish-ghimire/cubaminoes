@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cubaminoes</string>
+    <string name="intro_page_app_title">Cubaminoes</string>
+    <string name="intro_page_new_game">New Game</string>
+    <string name="intro_page_load_game">Load Game</string>
+    <string name="intro_page_app_motto">A dominoes game- with love from Cuba</string>
+    <string name="tournament_score_prompt">Enter max tournament score</string>
+    <string name="note_tournament_score">The tournament will be over when one of the users gets score equal to or greater than the max tournament score</string>
+    <string name="human_tournament_score_text">Human Tournament Score: </string>
+    <string name="computer_tournament_score_text">Computer Tournament Score: </string>
+    <string name="engine_text">Engine: </string>
+    <string name="menuOptionGameStateString">Game State </string>
+    <string name="menuOptionDrawFromStockString">Draw from stock </string>
+    <string name="menuOptionPassString">Pass </string>
+    <string name="menuOptionPlaceTileString">Place Tile</string>
+    <string name="yourHand"> </string>
+    <string name="humanSideString">Human Side</string>
+    <string name="textComputerSide">Computer Side</string>
+    <string name="textEngine">Engine:</string>
+    <string name="computer_hand_text">Computer Hand</string>
+    <string name="endOfRoundHumanHand">Human Hand:</string>
+    <string name="endOfWinnerRoundWinner">Round winner:</string>
+    <string name="stock">Stock:</string>
+    <string name="endOfRoundOkayButton">Okay</string>
+    <string name="enter_file_name">Enter file name:</string>
+    <string name="thanks"> Thank you for playing! </string>
+    <string name="tournamentOver">Tournament Over</string>
+    <string name="gameOverHumanScore">Human Tournament Score:</string>
+    <string name="gameOverComputerScore">Computer Tournament Score:</string>
+    <string name="turn_info_turn">Turn:</string>
+    <string name="turn_info_human_open">Human Side Open Stone:</string>
+    <string name="turn_info_computer_open_stone">Computer side open stone:</string>
+</resources>
